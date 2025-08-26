@@ -1,8 +1,7 @@
 # ossu-cs-progress
 tracking my ossu journey
 
-
-- Core CS [ ]
+Core CS [ ]
 - Core programming [ ]
 - Core math [ ]
 - CS Tools [ ]
@@ -14,7 +13,7 @@ tracking my ossu journey
 
 
 (will choose the ones which i will specialise for)
-- Advanced CS [ ] 
+Advanced CS [ ] 
 - Advanced programming [ ]
 - Advanced systems [ ]
 - Advanced theory [ ] 
